@@ -1,5 +1,4 @@
 .cache
-docs/dist
 docs/**/*.min.js
 dist
 examples
