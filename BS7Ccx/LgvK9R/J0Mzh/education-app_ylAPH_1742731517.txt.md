@@ -678,7 +678,6 @@ in ReadMe
 
 **Improved:**  
 * Updated ReadMe
-* Loading min.js versions of resources
 * Improved user interface of URL Builder
 * Initial support for alternative ToC CSS (`toc-alt`)
 * Support for display of standard Docsify Sidebar
