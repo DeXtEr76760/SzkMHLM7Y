@@ -247,7 +247,6 @@ services:
         volumes:
             - redis-stack-data:/data
         ports:
-            - 8001:8001
         networks:
             - oms-network
         healthcheck:
